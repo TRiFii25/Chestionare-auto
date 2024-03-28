@@ -1,0 +1,659 @@
+C:\Users\trifa\OneDrive\Desktop\atestat1\atestat1\bin\Debug\db1.sdf
+C:\Users\trifa\OneDrive\Desktop\atestat1\atestat1\bin\Debug\atestat1.exe.config
+C:\Users\trifa\OneDrive\Desktop\atestat1\atestat1\bin\Debug\atestat1.exe
+C:\Users\trifa\OneDrive\Desktop\atestat1\atestat1\bin\Debug\atestat1.pdb
+C:\Users\trifa\OneDrive\Desktop\atestat1\atestat1\obj\x86\Debug\atestat1.Login.resources
+C:\Users\trifa\OneDrive\Desktop\atestat1\atestat1\obj\x86\Debug\atestat1.Properties.Resources.resources
+C:\Users\trifa\OneDrive\Desktop\atestat1\atestat1\obj\x86\Debug\atestat1.csproj.GenerateResource.Cache
+C:\Users\trifa\OneDrive\Desktop\atestat1\atestat1\obj\x86\Debug\atestat1.exe
+C:\Users\trifa\OneDrive\Desktop\atestat1\atestat1\obj\x86\Debug\atestat1.pdb
+C:\Users\trifa\OneDrive\Desktop\atestat!!\atestat1\atestat1\bin\Debug\atestat1.exe.config
+C:\Users\trifa\OneDrive\Desktop\atestat!!\atestat1\atestat1\obj\x86\Debug\atestat1.exe
+C:\Users\trifa\OneDrive\Desktop\atestat!!\atestat1\atestat1\obj\x86\Debug\atestat1.pdb
+C:\Users\trifa\OneDrive\Desktop\atestat!!\atestat1\atestat1\bin\Debug\db1.sdf
+C:\Users\trifa\OneDrive\Desktop\atestat!!\atestat1\atestat1\bin\Debug\atestat1.exe
+C:\Users\trifa\OneDrive\Desktop\atestat!!\atestat1\atestat1\bin\Debug\atestat1.pdb
+C:\Users\trifa\OneDrive\Desktop\atestat!!\atestat1\atestat1\obj\x86\Debug\atestat1.csprojResolveAssemblyReference.cache
+C:\Users\trifa\OneDrive\Desktop\atestat!!\atestat1\atestat1\obj\x86\Debug\atestat1.Login.resources
+C:\Users\trifa\OneDrive\Desktop\atestat!!\atestat1\atestat1\obj\x86\Debug\atestat1.Properties.Resources.resources
+C:\Users\trifa\OneDrive\Desktop\atestat!!\atestat1\atestat1\obj\x86\Debug\atestat1.csproj.GenerateResource.Cache
+C:\Users\trifa\OneDrive\Desktop\atestat!!\atestat1\atestat1\obj\x86\Debug\atestat1.Inregistrare.resources
+C:\Users\trifa\OneDrive\Desktop\atestat!!\atestat1\atestat1\bin\Debug\Inregistrare.resx
+C:\Users\trifa\OneDrive\Desktop\atestat!!\atestat1\atestat1\bin\Debug\Login.resx
+C:\Users\trifa\OneDrive\Desktop\atestat!!\atestat1\atestat1\bin\Debug\Inregistrare.cs
+C:\Users\trifa\OneDrive\Desktop\atestat!!\atestat1\atestat1\bin\Debug\Inregistrare.Designer.cs
+C:\Users\trifa\OneDrive\Desktop\atestat!!\atestat1\atestat1\bin\Debug\Login.cs
+C:\Users\trifa\OneDrive\Desktop\atestat!!\atestat1\atestat1\bin\Debug\Login.Designer.cs
+C:\Users\trifa\OneDrive\Desktop\atestat!!\atestat1\atestat1\obj\x86\Debug\atestat1.Main.resources
+C:\Users\trifa\OneDrive\Desktop\atestat!!\atestat1\atestat1\obj\x86\Debug\atestat1.codulrutier.resources
+C:\Users\trifa\OneDrive\Desktop\atestat!!\atestat1\atestat1\obj\x86\Debug\atestat1.mediudeinvatare.resources
+C:\Users\trifa\OneDrive\Desktop\atestat!!\atestat1\atestat1\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\trifa\OneDrive\Desktop\atestat!!\atestat1\atestat1\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\trifa\OneDrive\Desktop\atestat!!\atestat1\atestat1\obj\x86\Debug\Interop.AcroPDFLib.dll
+C:\Users\trifa\OneDrive\Desktop\atestat!!\atestat1\atestat1\obj\x86\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\trifa\OneDrive\Desktop\atestat!!\atestat1\atestat1\obj\x86\Debug\atestat1.csproj.ResolveComReference.cache
+C:\Users\trifa\OneDrive\Desktop\atestat!! - Copy-varianta ok..cred\atestat1\atestat1\bin\Debug\atestat1.exe.config
+C:\Users\trifa\OneDrive\Desktop\atestat!! - Copy-varianta ok..cred\atestat1\atestat1\obj\x86\Debug\Interop.AcroPDFLib.dll
+C:\Users\trifa\OneDrive\Desktop\atestat!! - Copy-varianta ok..cred\atestat1\atestat1\obj\x86\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\trifa\OneDrive\Desktop\atestat!! - Copy-varianta ok..cred\atestat1\atestat1\obj\x86\Debug\atestat1.csproj.ResolveComReference.cache
+C:\Users\trifa\OneDrive\Desktop\atestat!! - Copy-varianta ok..cred\atestat1\atestat1\obj\x86\Debug\atestat1.exe
+C:\Users\trifa\OneDrive\Desktop\atestat!! - Copy-varianta ok..cred\atestat1\atestat1\obj\x86\Debug\atestat1.pdb
+C:\Users\trifa\OneDrive\Desktop\atestat!! - Copy-varianta ok..cred - Copy\atestat1\atestat1\bin\Debug\atestat1.exe.config
+C:\Users\trifa\OneDrive\Desktop\atestat!! - Copy-varianta ok..cred - Copy\atestat1\atestat1\obj\x86\Debug\Interop.AcroPDFLib.dll
+C:\Users\trifa\OneDrive\Desktop\atestat!! - Copy-varianta ok..cred - Copy\atestat1\atestat1\obj\x86\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\trifa\OneDrive\Desktop\atestat!! - Copy-varianta ok..cred - Copy\atestat1\atestat1\obj\x86\Debug\atestat1.csproj.ResolveComReference.cache
+C:\Users\trifa\OneDrive\Desktop\atestat!! - Copy-varianta ok..cred - Copy\atestat1\atestat1\obj\x86\Debug\atestat1.exe
+C:\Users\trifa\OneDrive\Desktop\atestat!! - Copy-varianta ok..cred - Copy\atestat1\atestat1\obj\x86\Debug\atestat1.pdb
+C:\Users\trifa\OneDrive\Desktop\atestat!! - Copy-varianta ok..cred - Copy\atestat1\atestat1\obj\x86\Debug\atestat1.csprojResolveAssemblyReference.cache
+C:\Users\trifa\OneDrive\Desktop\atestat!! - Copy-varianta ok..cred - Copy\atestat1\atestat1\obj\x86\Debug\atestat1.codulrutier.resources
+C:\Users\trifa\OneDrive\Desktop\atestat!! - Copy-varianta ok..cred - Copy\atestat1\atestat1\obj\x86\Debug\atestat1.Inregistrare.resources
+C:\Users\trifa\OneDrive\Desktop\atestat!! - Copy-varianta ok..cred - Copy\atestat1\atestat1\obj\x86\Debug\atestat1.Login.resources
+C:\Users\trifa\OneDrive\Desktop\atestat!! - Copy-varianta ok..cred - Copy\atestat1\atestat1\obj\x86\Debug\atestat1.Main.resources
+C:\Users\trifa\OneDrive\Desktop\atestat!! - Copy-varianta ok..cred - Copy\atestat1\atestat1\obj\x86\Debug\atestat1.mediudeinvatare.resources
+C:\Users\trifa\OneDrive\Desktop\atestat!! - Copy-varianta ok..cred - Copy\atestat1\atestat1\obj\x86\Debug\atestat1.Properties.Resources.resources
+C:\Users\trifa\OneDrive\Desktop\atestat!! - Copy-varianta ok..cred - Copy\atestat1\atestat1\obj\x86\Debug\atestat1.csproj.GenerateResource.Cache
+C:\Users\trifa\OneDrive\Desktop\atestat!! - Copy-varianta ok..cred - Copy\atestat1\atestat1\bin\Debug\db1.sdf
+C:\Users\trifa\OneDrive\Desktop\atestat!! - Copy-varianta ok..cred - Copy\atestat1\atestat1\bin\Debug\Inregistrare.resx
+C:\Users\trifa\OneDrive\Desktop\atestat!! - Copy-varianta ok..cred - Copy\atestat1\atestat1\bin\Debug\Login.resx
+C:\Users\trifa\OneDrive\Desktop\atestat!! - Copy-varianta ok..cred - Copy\atestat1\atestat1\bin\Debug\Inregistrare.cs
+C:\Users\trifa\OneDrive\Desktop\atestat!! - Copy-varianta ok..cred - Copy\atestat1\atestat1\bin\Debug\Inregistrare.Designer.cs
+C:\Users\trifa\OneDrive\Desktop\atestat!! - Copy-varianta ok..cred - Copy\atestat1\atestat1\bin\Debug\Login.cs
+C:\Users\trifa\OneDrive\Desktop\atestat!! - Copy-varianta ok..cred - Copy\atestat1\atestat1\bin\Debug\Login.Designer.cs
+C:\Users\trifa\OneDrive\Desktop\atestat!! - Copy-varianta ok..cred - Copy\atestat1\atestat1\bin\Debug\atestat1.exe
+C:\Users\trifa\OneDrive\Desktop\atestat!! - Copy-varianta ok..cred - Copy\atestat1\atestat1\bin\Debug\atestat1.pdb
+C:\Users\trifa\OneDrive\Desktop\atestat!! - Copy-varianta ok..cred - Copy\atestat1\atestat1\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\trifa\OneDrive\Desktop\atestat!! - Copy-varianta ok..cred - Copy\atestat1\atestat1\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\trifa\OneDrive\Desktop\atestat-functional(inca) - Copy\atestat1\atestat1\bin\Debug\atestat1.exe.config
+C:\Users\trifa\OneDrive\Desktop\atestat-functional(inca) - Copy\atestat1\atestat1\obj\x86\Debug\Interop.AcroPDFLib.dll
+C:\Users\trifa\OneDrive\Desktop\atestat-functional(inca) - Copy\atestat1\atestat1\obj\x86\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\trifa\OneDrive\Desktop\atestat-functional(inca) - Copy\atestat1\atestat1\obj\x86\Debug\atestat1.csproj.ResolveComReference.cache
+C:\Users\trifa\OneDrive\Desktop\atestat-functional(inca) - Copy\atestat1\atestat1\obj\x86\Debug\atestat1.exe
+C:\Users\trifa\OneDrive\Desktop\atestat-functional(inca) - Copy\atestat1\atestat1\obj\x86\Debug\atestat1.pdb
+C:\Users\trifa\OneDrive\Desktop\atestat-functional(inca) - Copy\atestat1\atestat1\obj\x86\Debug\atestat1.csprojResolveAssemblyReference.cache
+C:\Users\trifa\OneDrive\Desktop\atestat-functional(inca) - Copy\atestat1\atestat1\obj\x86\Debug\atestat1.codulrutier.resources
+C:\Users\trifa\OneDrive\Desktop\atestat-functional(inca) - Copy\atestat1\atestat1\obj\x86\Debug\atestat1.Inregistrare.resources
+C:\Users\trifa\OneDrive\Desktop\atestat-functional(inca) - Copy\atestat1\atestat1\obj\x86\Debug\atestat1.Login.resources
+C:\Users\trifa\OneDrive\Desktop\atestat-functional(inca) - Copy\atestat1\atestat1\obj\x86\Debug\atestat1.Main.resources
+C:\Users\trifa\OneDrive\Desktop\atestat-functional(inca) - Copy\atestat1\atestat1\obj\x86\Debug\atestat1.mediudeinvatare.resources
+C:\Users\trifa\OneDrive\Desktop\atestat-functional(inca) - Copy\atestat1\atestat1\obj\x86\Debug\atestat1.Properties.Resources.resources
+C:\Users\trifa\OneDrive\Desktop\atestat-functional(inca) - Copy\atestat1\atestat1\obj\x86\Debug\atestat1.csproj.GenerateResource.Cache
+C:\Users\trifa\OneDrive\Desktop\atestat-functional(inca) - Copy\atestat1\atestat1\bin\Debug\db1.sdf
+C:\Users\trifa\OneDrive\Desktop\atestat-functional(inca) - Copy\atestat1\atestat1\bin\Debug\Inregistrare.resx
+C:\Users\trifa\OneDrive\Desktop\atestat-functional(inca) - Copy\atestat1\atestat1\bin\Debug\Login.resx
+C:\Users\trifa\OneDrive\Desktop\atestat-functional(inca) - Copy\atestat1\atestat1\bin\Debug\Inregistrare.cs
+C:\Users\trifa\OneDrive\Desktop\atestat-functional(inca) - Copy\atestat1\atestat1\bin\Debug\Inregistrare.Designer.cs
+C:\Users\trifa\OneDrive\Desktop\atestat-functional(inca) - Copy\atestat1\atestat1\bin\Debug\Login.cs
+C:\Users\trifa\OneDrive\Desktop\atestat-functional(inca) - Copy\atestat1\atestat1\bin\Debug\Login.Designer.cs
+C:\Users\trifa\OneDrive\Desktop\atestat-functional(inca) - Copy\atestat1\atestat1\bin\Debug\atestat1.exe
+C:\Users\trifa\OneDrive\Desktop\atestat-functional(inca) - Copy\atestat1\atestat1\bin\Debug\atestat1.pdb
+C:\Users\trifa\OneDrive\Desktop\atestat-functional(inca) - Copy\atestat1\atestat1\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\trifa\OneDrive\Desktop\atestat-functional(inca) - Copy\atestat1\atestat1\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\trifa\OneDrive\Desktop\atestat-functional(inca) - Copy\atestat1\atestat1\obj\x86\Debug\atestat1.mediudeinvatarestart.resources
+C:\Users\trifa\OneDrive\Desktop\varianta 1\atestat1\atestat1\bin\Debug\atestat1.exe.config
+C:\Users\trifa\OneDrive\Desktop\varianta 1\atestat1\atestat1\obj\x86\Debug\Interop.AcroPDFLib.dll
+C:\Users\trifa\OneDrive\Desktop\varianta 1\atestat1\atestat1\obj\x86\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\trifa\OneDrive\Desktop\varianta 1\atestat1\atestat1\obj\x86\Debug\atestat1.csproj.ResolveComReference.cache
+C:\Users\trifa\OneDrive\Desktop\varianta 1\atestat1\atestat1\obj\x86\Debug\atestat1.exe
+C:\Users\trifa\OneDrive\Desktop\varianta 1\atestat1\atestat1\obj\x86\Debug\atestat1.pdb
+C:\Users\trifa\OneDrive\Desktop\varianta 1\atestat1\atestat1\bin\Debug\db1.sdf
+C:\Users\trifa\OneDrive\Desktop\varianta 1\atestat1\atestat1\bin\Debug\Inregistrare.resx
+C:\Users\trifa\OneDrive\Desktop\varianta 1\atestat1\atestat1\bin\Debug\Login.resx
+C:\Users\trifa\OneDrive\Desktop\varianta 1\atestat1\atestat1\bin\Debug\Inregistrare.cs
+C:\Users\trifa\OneDrive\Desktop\varianta 1\atestat1\atestat1\bin\Debug\Inregistrare.Designer.cs
+C:\Users\trifa\OneDrive\Desktop\varianta 1\atestat1\atestat1\bin\Debug\Login.cs
+C:\Users\trifa\OneDrive\Desktop\varianta 1\atestat1\atestat1\bin\Debug\Login.Designer.cs
+C:\Users\trifa\OneDrive\Desktop\varianta 1\atestat1\atestat1\bin\Debug\atestat1.exe
+C:\Users\trifa\OneDrive\Desktop\varianta 1\atestat1\atestat1\bin\Debug\atestat1.pdb
+C:\Users\trifa\OneDrive\Desktop\varianta 1\atestat1\atestat1\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\trifa\OneDrive\Desktop\varianta 1\atestat1\atestat1\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\trifa\OneDrive\Desktop\varianta 1\atestat1\atestat1\obj\x86\Debug\atestat1.csprojResolveAssemblyReference.cache
+C:\Users\trifa\OneDrive\Desktop\varianta 1\atestat1\atestat1\obj\x86\Debug\atestat1.codulrutier.resources
+C:\Users\trifa\OneDrive\Desktop\varianta 1\atestat1\atestat1\obj\x86\Debug\atestat1.Inregistrare.resources
+C:\Users\trifa\OneDrive\Desktop\varianta 1\atestat1\atestat1\obj\x86\Debug\atestat1.Login.resources
+C:\Users\trifa\OneDrive\Desktop\varianta 1\atestat1\atestat1\obj\x86\Debug\atestat1.Main.resources
+C:\Users\trifa\OneDrive\Desktop\varianta 1\atestat1\atestat1\obj\x86\Debug\atestat1.mediudeinvatare.resources
+C:\Users\trifa\OneDrive\Desktop\varianta 1\atestat1\atestat1\obj\x86\Debug\atestat1.mediudeinvatarestart.resources
+C:\Users\trifa\OneDrive\Desktop\varianta 1\atestat1\atestat1\obj\x86\Debug\atestat1.Properties.Resources.resources
+C:\Users\trifa\OneDrive\Desktop\varianta 1\atestat1\atestat1\obj\x86\Debug\atestat1.csproj.GenerateResource.Cache
+C:\Users\trifa\OneDrive\Desktop\varianta 1-rezerva\atestat1\atestat1\bin\Debug\atestat1.exe.config
+C:\Users\trifa\OneDrive\Desktop\varianta 1-rezerva\atestat1\atestat1\obj\x86\Debug\Interop.AcroPDFLib.dll
+C:\Users\trifa\OneDrive\Desktop\varianta 1-rezerva\atestat1\atestat1\obj\x86\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\trifa\OneDrive\Desktop\varianta 1-rezerva\atestat1\atestat1\obj\x86\Debug\atestat1.csproj.ResolveComReference.cache
+C:\Users\trifa\OneDrive\Desktop\varianta 1-rezerva\atestat1\atestat1\obj\x86\Debug\atestat1.exe
+C:\Users\trifa\OneDrive\Desktop\varianta 1-rezerva\atestat1\atestat1\obj\x86\Debug\atestat1.pdb
+C:\Users\trifa\OneDrive\Desktop\varianta 1-rezerva\atestat1\atestat1\bin\Debug\db1.sdf
+C:\Users\trifa\OneDrive\Desktop\varianta 1-rezerva\atestat1\atestat1\bin\Debug\Inregistrare.resx
+C:\Users\trifa\OneDrive\Desktop\varianta 1-rezerva\atestat1\atestat1\bin\Debug\Login.resx
+C:\Users\trifa\OneDrive\Desktop\varianta 1-rezerva\atestat1\atestat1\bin\Debug\Inregistrare.cs
+C:\Users\trifa\OneDrive\Desktop\varianta 1-rezerva\atestat1\atestat1\bin\Debug\Inregistrare.Designer.cs
+C:\Users\trifa\OneDrive\Desktop\varianta 1-rezerva\atestat1\atestat1\bin\Debug\Login.cs
+C:\Users\trifa\OneDrive\Desktop\varianta 1-rezerva\atestat1\atestat1\bin\Debug\Login.Designer.cs
+C:\Users\trifa\OneDrive\Desktop\varianta 1-rezerva\atestat1\atestat1\bin\Debug\atestat1.exe
+C:\Users\trifa\OneDrive\Desktop\varianta 1-rezerva\atestat1\atestat1\bin\Debug\atestat1.pdb
+C:\Users\trifa\OneDrive\Desktop\varianta 1-rezerva\atestat1\atestat1\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\trifa\OneDrive\Desktop\varianta 1-rezerva\atestat1\atestat1\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\trifa\OneDrive\Desktop\varianta 1-rezerva\atestat1\atestat1\obj\x86\Debug\atestat1.csprojResolveAssemblyReference.cache
+C:\Users\trifa\OneDrive\Desktop\varianta 1-rezerva\atestat1\atestat1\obj\x86\Debug\atestat1.codulrutier.resources
+C:\Users\trifa\OneDrive\Desktop\varianta 1-rezerva\atestat1\atestat1\obj\x86\Debug\atestat1.Inregistrare.resources
+C:\Users\trifa\OneDrive\Desktop\varianta 1-rezerva\atestat1\atestat1\obj\x86\Debug\atestat1.Login.resources
+C:\Users\trifa\OneDrive\Desktop\varianta 1-rezerva\atestat1\atestat1\obj\x86\Debug\atestat1.Main.resources
+C:\Users\trifa\OneDrive\Desktop\varianta 1-rezerva\atestat1\atestat1\obj\x86\Debug\atestat1.mediudeinvatare.resources
+C:\Users\trifa\OneDrive\Desktop\varianta 1-rezerva\atestat1\atestat1\obj\x86\Debug\atestat1.mediudeinvatarestart.resources
+C:\Users\trifa\OneDrive\Desktop\varianta 1-rezerva\atestat1\atestat1\obj\x86\Debug\atestat1.Properties.Resources.resources
+C:\Users\trifa\OneDrive\Desktop\varianta 1-rezerva\atestat1\atestat1\obj\x86\Debug\atestat1.csproj.GenerateResource.Cache
+C:\Users\trifa\OneDrive\Desktop\varianta 1-buna momentan\atestat1\atestat1\bin\Debug\atestat1.exe.config
+C:\Users\trifa\OneDrive\Desktop\varianta 1-buna momentan\atestat1\atestat1\obj\x86\Debug\Interop.AcroPDFLib.dll
+C:\Users\trifa\OneDrive\Desktop\varianta 1-buna momentan\atestat1\atestat1\obj\x86\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\trifa\OneDrive\Desktop\varianta 1-buna momentan\atestat1\atestat1\obj\x86\Debug\atestat1.csproj.ResolveComReference.cache
+C:\Users\trifa\OneDrive\Desktop\varianta 1-buna momentan\atestat1\atestat1\obj\x86\Debug\atestat1.exe
+C:\Users\trifa\OneDrive\Desktop\varianta 1-buna momentan\atestat1\atestat1\obj\x86\Debug\atestat1.pdb
+C:\Users\trifa\OneDrive\Desktop\varianta 1-buna momentan\atestat1\atestat1\bin\Debug\db1.sdf
+C:\Users\trifa\OneDrive\Desktop\varianta 1-buna momentan\atestat1\atestat1\bin\Debug\Inregistrare.resx
+C:\Users\trifa\OneDrive\Desktop\varianta 1-buna momentan\atestat1\atestat1\bin\Debug\Login.resx
+C:\Users\trifa\OneDrive\Desktop\varianta 1-buna momentan\atestat1\atestat1\bin\Debug\Inregistrare.cs
+C:\Users\trifa\OneDrive\Desktop\varianta 1-buna momentan\atestat1\atestat1\bin\Debug\Inregistrare.Designer.cs
+C:\Users\trifa\OneDrive\Desktop\varianta 1-buna momentan\atestat1\atestat1\bin\Debug\Login.cs
+C:\Users\trifa\OneDrive\Desktop\varianta 1-buna momentan\atestat1\atestat1\bin\Debug\Login.Designer.cs
+C:\Users\trifa\OneDrive\Desktop\varianta 1-buna momentan\atestat1\atestat1\bin\Debug\atestat1.exe
+C:\Users\trifa\OneDrive\Desktop\varianta 1-buna momentan\atestat1\atestat1\bin\Debug\atestat1.pdb
+C:\Users\trifa\OneDrive\Desktop\varianta 1-buna momentan\atestat1\atestat1\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\trifa\OneDrive\Desktop\varianta 1-buna momentan\atestat1\atestat1\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\trifa\OneDrive\Desktop\varianta 1-buna momentan\atestat1\atestat1\obj\x86\Debug\atestat1.csprojResolveAssemblyReference.cache
+C:\Users\trifa\OneDrive\Desktop\varianta 1-buna momentan\atestat1\atestat1\obj\x86\Debug\atestat1.codulrutier.resources
+C:\Users\trifa\OneDrive\Desktop\varianta 1-buna momentan\atestat1\atestat1\obj\x86\Debug\atestat1.Inregistrare.resources
+C:\Users\trifa\OneDrive\Desktop\varianta 1-buna momentan\atestat1\atestat1\obj\x86\Debug\atestat1.Login.resources
+C:\Users\trifa\OneDrive\Desktop\varianta 1-buna momentan\atestat1\atestat1\obj\x86\Debug\atestat1.Main.resources
+C:\Users\trifa\OneDrive\Desktop\varianta 1-buna momentan\atestat1\atestat1\obj\x86\Debug\atestat1.mediudeinvatare.resources
+C:\Users\trifa\OneDrive\Desktop\varianta 1-buna momentan\atestat1\atestat1\obj\x86\Debug\atestat1.mediudeinvatarestart.resources
+C:\Users\trifa\OneDrive\Desktop\varianta 1-buna momentan\atestat1\atestat1\obj\x86\Debug\atestat1.Properties.Resources.resources
+C:\Users\trifa\OneDrive\Desktop\varianta 1-buna momentan\atestat1\atestat1\obj\x86\Debug\atestat1.csproj.GenerateResource.Cache
+C:\Users\trifa\OneDrive\Desktop\varianta1-DAAAAAAAAA\atestat1\atestat1\bin\Debug\atestat1.exe.config
+C:\Users\trifa\OneDrive\Desktop\varianta1-DAAAAAAAAA\atestat1\atestat1\obj\x86\Debug\Interop.AcroPDFLib.dll
+C:\Users\trifa\OneDrive\Desktop\varianta1-DAAAAAAAAA\atestat1\atestat1\obj\x86\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\trifa\OneDrive\Desktop\varianta1-DAAAAAAAAA\atestat1\atestat1\obj\x86\Debug\atestat1.csproj.ResolveComReference.cache
+C:\Users\trifa\OneDrive\Desktop\varianta1-DAAAAAAAAA\atestat1\atestat1\obj\x86\Debug\atestat1.exe
+C:\Users\trifa\OneDrive\Desktop\varianta1-DAAAAAAAAA\atestat1\atestat1\obj\x86\Debug\atestat1.pdb
+C:\Users\trifa\OneDrive\Desktop\varianta1-DAAAAAAAAA\atestat1\atestat1\bin\Debug\db1.sdf
+C:\Users\trifa\OneDrive\Desktop\varianta1-DAAAAAAAAA\atestat1\atestat1\bin\Debug\Inregistrare.resx
+C:\Users\trifa\OneDrive\Desktop\varianta1-DAAAAAAAAA\atestat1\atestat1\bin\Debug\Login.resx
+C:\Users\trifa\OneDrive\Desktop\varianta1-DAAAAAAAAA\atestat1\atestat1\bin\Debug\Inregistrare.cs
+C:\Users\trifa\OneDrive\Desktop\varianta1-DAAAAAAAAA\atestat1\atestat1\bin\Debug\Inregistrare.Designer.cs
+C:\Users\trifa\OneDrive\Desktop\varianta1-DAAAAAAAAA\atestat1\atestat1\bin\Debug\Login.cs
+C:\Users\trifa\OneDrive\Desktop\varianta1-DAAAAAAAAA\atestat1\atestat1\bin\Debug\Login.Designer.cs
+C:\Users\trifa\OneDrive\Desktop\varianta1-DAAAAAAAAA\atestat1\atestat1\bin\Debug\atestat1.exe
+C:\Users\trifa\OneDrive\Desktop\varianta1-DAAAAAAAAA\atestat1\atestat1\bin\Debug\atestat1.pdb
+C:\Users\trifa\OneDrive\Desktop\varianta1-DAAAAAAAAA\atestat1\atestat1\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\trifa\OneDrive\Desktop\varianta1-DAAAAAAAAA\atestat1\atestat1\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\trifa\OneDrive\Desktop\varianta1-DAAAAAAAAA\atestat1\atestat1\obj\x86\Debug\atestat1.csprojResolveAssemblyReference.cache
+C:\Users\trifa\OneDrive\Desktop\varianta1-DAAAAAAAAA\atestat1\atestat1\obj\x86\Debug\atestat1.codulrutier.resources
+C:\Users\trifa\OneDrive\Desktop\varianta1-DAAAAAAAAA\atestat1\atestat1\obj\x86\Debug\atestat1.Inregistrare.resources
+C:\Users\trifa\OneDrive\Desktop\varianta1-DAAAAAAAAA\atestat1\atestat1\obj\x86\Debug\atestat1.Login.resources
+C:\Users\trifa\OneDrive\Desktop\varianta1-DAAAAAAAAA\atestat1\atestat1\obj\x86\Debug\atestat1.Main.resources
+C:\Users\trifa\OneDrive\Desktop\varianta1-DAAAAAAAAA\atestat1\atestat1\obj\x86\Debug\atestat1.mediudeinvatare.resources
+C:\Users\trifa\OneDrive\Desktop\varianta1-DAAAAAAAAA\atestat1\atestat1\obj\x86\Debug\atestat1.mediudeinvatarestart.resources
+C:\Users\trifa\OneDrive\Desktop\varianta1-DAAAAAAAAA\atestat1\atestat1\obj\x86\Debug\atestat1.Properties.Resources.resources
+C:\Users\trifa\OneDrive\Desktop\varianta1-DAAAAAAAAA\atestat1\atestat1\obj\x86\Debug\atestat1.csproj.GenerateResource.Cache
+C:\Users\trifa\OneDrive\Desktop\variantabuna\atestat1\atestat1\bin\Debug\atestat1.exe.config
+C:\Users\trifa\OneDrive\Desktop\variantabuna\atestat1\atestat1\obj\x86\Debug\Interop.AcroPDFLib.dll
+C:\Users\trifa\OneDrive\Desktop\variantabuna\atestat1\atestat1\obj\x86\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\trifa\OneDrive\Desktop\variantabuna\atestat1\atestat1\obj\x86\Debug\atestat1.csproj.ResolveComReference.cache
+C:\Users\trifa\OneDrive\Desktop\variantabuna\atestat1\atestat1\obj\x86\Debug\atestat1.exe
+C:\Users\trifa\OneDrive\Desktop\variantabuna\atestat1\atestat1\obj\x86\Debug\atestat1.pdb
+C:\Users\trifa\OneDrive\Desktop\variantabuna\atestat1\atestat1\bin\Debug\db1.sdf
+C:\Users\trifa\OneDrive\Desktop\variantabuna\atestat1\atestat1\bin\Debug\Inregistrare.resx
+C:\Users\trifa\OneDrive\Desktop\variantabuna\atestat1\atestat1\bin\Debug\Login.resx
+C:\Users\trifa\OneDrive\Desktop\variantabuna\atestat1\atestat1\bin\Debug\Inregistrare.cs
+C:\Users\trifa\OneDrive\Desktop\variantabuna\atestat1\atestat1\bin\Debug\Inregistrare.Designer.cs
+C:\Users\trifa\OneDrive\Desktop\variantabuna\atestat1\atestat1\bin\Debug\Login.cs
+C:\Users\trifa\OneDrive\Desktop\variantabuna\atestat1\atestat1\bin\Debug\Login.Designer.cs
+C:\Users\trifa\OneDrive\Desktop\variantabuna\atestat1\atestat1\bin\Debug\atestat1.exe
+C:\Users\trifa\OneDrive\Desktop\variantabuna\atestat1\atestat1\bin\Debug\atestat1.pdb
+C:\Users\trifa\OneDrive\Desktop\variantabuna\atestat1\atestat1\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\trifa\OneDrive\Desktop\variantabuna\atestat1\atestat1\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\trifa\OneDrive\Desktop\variantabuna\atestat1\atestat1\obj\x86\Debug\atestat1.csprojResolveAssemblyReference.cache
+C:\Users\trifa\OneDrive\Desktop\variantabuna\atestat1\atestat1\obj\x86\Debug\atestat1.codulrutier.resources
+C:\Users\trifa\OneDrive\Desktop\variantabuna\atestat1\atestat1\obj\x86\Debug\atestat1.Inregistrare.resources
+C:\Users\trifa\OneDrive\Desktop\variantabuna\atestat1\atestat1\obj\x86\Debug\atestat1.Login.resources
+C:\Users\trifa\OneDrive\Desktop\variantabuna\atestat1\atestat1\obj\x86\Debug\atestat1.Main.resources
+C:\Users\trifa\OneDrive\Desktop\variantabuna\atestat1\atestat1\obj\x86\Debug\atestat1.mediudeinvatare.resources
+C:\Users\trifa\OneDrive\Desktop\variantabuna\atestat1\atestat1\obj\x86\Debug\atestat1.mediudeinvatarestart.resources
+C:\Users\trifa\OneDrive\Desktop\variantabuna\atestat1\atestat1\obj\x86\Debug\atestat1.Properties.Resources.resources
+C:\Users\trifa\OneDrive\Desktop\variantabuna\atestat1\atestat1\obj\x86\Debug\atestat1.csproj.GenerateResource.Cache
+C:\Users\trifa\OneDrive\Desktop\variantabuna\atestat1\atestat1\obj\x86\Debug\atestat1.schimbareparola.resources
+C:\Users\trifa\OneDrive\Desktop\variantabuna\atestat1\atestat1\obj\x86\Debug\atestat1.examen.resources
+C:\Users\trifa\OneDrive\Desktop\ultima fita\atestat1\atestat1\bin\Debug\atestat1.exe.config
+C:\Users\trifa\OneDrive\Desktop\ultima fita\atestat1\atestat1\obj\x86\Debug\Interop.AcroPDFLib.dll
+C:\Users\trifa\OneDrive\Desktop\ultima fita\atestat1\atestat1\obj\x86\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\trifa\OneDrive\Desktop\ultima fita\atestat1\atestat1\obj\x86\Debug\atestat1.csproj.ResolveComReference.cache
+C:\Users\trifa\OneDrive\Desktop\ultima fita\atestat1\atestat1\obj\x86\Debug\atestat1.exe
+C:\Users\trifa\OneDrive\Desktop\ultima fita\atestat1\atestat1\obj\x86\Debug\atestat1.pdb
+C:\Users\trifa\OneDrive\Desktop\ultima fita\atestat1\atestat1\bin\Debug\db1.sdf
+C:\Users\trifa\OneDrive\Desktop\ultima fita\atestat1\atestat1\bin\Debug\Inregistrare.resx
+C:\Users\trifa\OneDrive\Desktop\ultima fita\atestat1\atestat1\bin\Debug\Login.resx
+C:\Users\trifa\OneDrive\Desktop\ultima fita\atestat1\atestat1\bin\Debug\Inregistrare.cs
+C:\Users\trifa\OneDrive\Desktop\ultima fita\atestat1\atestat1\bin\Debug\Inregistrare.Designer.cs
+C:\Users\trifa\OneDrive\Desktop\ultima fita\atestat1\atestat1\bin\Debug\Login.cs
+C:\Users\trifa\OneDrive\Desktop\ultima fita\atestat1\atestat1\bin\Debug\Login.Designer.cs
+C:\Users\trifa\OneDrive\Desktop\ultima fita\atestat1\atestat1\bin\Debug\atestat1.exe
+C:\Users\trifa\OneDrive\Desktop\ultima fita\atestat1\atestat1\bin\Debug\atestat1.pdb
+C:\Users\trifa\OneDrive\Desktop\ultima fita\atestat1\atestat1\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\trifa\OneDrive\Desktop\ultima fita\atestat1\atestat1\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\trifa\OneDrive\Desktop\ultima fita\atestat1\atestat1\obj\x86\Debug\atestat1.csprojResolveAssemblyReference.cache
+C:\Users\trifa\OneDrive\Desktop\ultima fita\atestat1\atestat1\obj\x86\Debug\atestat1.codulrutier.resources
+C:\Users\trifa\OneDrive\Desktop\ultima fita\atestat1\atestat1\obj\x86\Debug\atestat1.examen.resources
+C:\Users\trifa\OneDrive\Desktop\ultima fita\atestat1\atestat1\obj\x86\Debug\atestat1.Inregistrare.resources
+C:\Users\trifa\OneDrive\Desktop\ultima fita\atestat1\atestat1\obj\x86\Debug\atestat1.Login.resources
+C:\Users\trifa\OneDrive\Desktop\ultima fita\atestat1\atestat1\obj\x86\Debug\atestat1.Main.resources
+C:\Users\trifa\OneDrive\Desktop\ultima fita\atestat1\atestat1\obj\x86\Debug\atestat1.mediudeinvatare.resources
+C:\Users\trifa\OneDrive\Desktop\ultima fita\atestat1\atestat1\obj\x86\Debug\atestat1.mediudeinvatarestart.resources
+C:\Users\trifa\OneDrive\Desktop\ultima fita\atestat1\atestat1\obj\x86\Debug\atestat1.Properties.Resources.resources
+C:\Users\trifa\OneDrive\Desktop\ultima fita\atestat1\atestat1\obj\x86\Debug\atestat1.schimbareparola.resources
+C:\Users\trifa\OneDrive\Desktop\ultima fita\atestat1\atestat1\obj\x86\Debug\atestat1.csproj.GenerateResource.Cache
+C:\Users\trifa\OneDrive\Desktop\ultima fita varianta 2\atestat1\atestat1\bin\Debug\atestat1.exe.config
+C:\Users\trifa\OneDrive\Desktop\ultima fita varianta 2\atestat1\atestat1\obj\x86\Debug\Interop.AcroPDFLib.dll
+C:\Users\trifa\OneDrive\Desktop\ultima fita varianta 2\atestat1\atestat1\obj\x86\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\trifa\OneDrive\Desktop\ultima fita varianta 2\atestat1\atestat1\obj\x86\Debug\atestat1.csproj.ResolveComReference.cache
+C:\Users\trifa\OneDrive\Desktop\ultima fita varianta 2\atestat1\atestat1\obj\x86\Debug\atestat1.exe
+C:\Users\trifa\OneDrive\Desktop\ultima fita varianta 2\atestat1\atestat1\obj\x86\Debug\atestat1.pdb
+C:\Users\trifa\OneDrive\Desktop\ultima fita varianta 2\atestat1\atestat1\bin\Debug\db1.sdf
+C:\Users\trifa\OneDrive\Desktop\ultima fita varianta 2\atestat1\atestat1\bin\Debug\Inregistrare.resx
+C:\Users\trifa\OneDrive\Desktop\ultima fita varianta 2\atestat1\atestat1\bin\Debug\Login.resx
+C:\Users\trifa\OneDrive\Desktop\ultima fita varianta 2\atestat1\atestat1\bin\Debug\Inregistrare.cs
+C:\Users\trifa\OneDrive\Desktop\ultima fita varianta 2\atestat1\atestat1\bin\Debug\Inregistrare.Designer.cs
+C:\Users\trifa\OneDrive\Desktop\ultima fita varianta 2\atestat1\atestat1\bin\Debug\Login.cs
+C:\Users\trifa\OneDrive\Desktop\ultima fita varianta 2\atestat1\atestat1\bin\Debug\Login.Designer.cs
+C:\Users\trifa\OneDrive\Desktop\ultima fita varianta 2\atestat1\atestat1\bin\Debug\atestat1.exe
+C:\Users\trifa\OneDrive\Desktop\ultima fita varianta 2\atestat1\atestat1\bin\Debug\atestat1.pdb
+C:\Users\trifa\OneDrive\Desktop\ultima fita varianta 2\atestat1\atestat1\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\trifa\OneDrive\Desktop\ultima fita varianta 2\atestat1\atestat1\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\trifa\OneDrive\Desktop\ultima fita varianta 2\atestat1\atestat1\obj\x86\Debug\atestat1.csprojResolveAssemblyReference.cache
+C:\Users\trifa\OneDrive\Desktop\ultima fita varianta 2\atestat1\atestat1\obj\x86\Debug\atestat1.codulrutier.resources
+C:\Users\trifa\OneDrive\Desktop\ultima fita varianta 2\atestat1\atestat1\obj\x86\Debug\atestat1.examen.resources
+C:\Users\trifa\OneDrive\Desktop\ultima fita varianta 2\atestat1\atestat1\obj\x86\Debug\atestat1.Inregistrare.resources
+C:\Users\trifa\OneDrive\Desktop\ultima fita varianta 2\atestat1\atestat1\obj\x86\Debug\atestat1.Login.resources
+C:\Users\trifa\OneDrive\Desktop\ultima fita varianta 2\atestat1\atestat1\obj\x86\Debug\atestat1.Main.resources
+C:\Users\trifa\OneDrive\Desktop\ultima fita varianta 2\atestat1\atestat1\obj\x86\Debug\atestat1.mediudeinvatare.resources
+C:\Users\trifa\OneDrive\Desktop\ultima fita varianta 2\atestat1\atestat1\obj\x86\Debug\atestat1.mediudeinvatarestart.resources
+C:\Users\trifa\OneDrive\Desktop\ultima fita varianta 2\atestat1\atestat1\obj\x86\Debug\atestat1.Properties.Resources.resources
+C:\Users\trifa\OneDrive\Desktop\ultima fita varianta 2\atestat1\atestat1\obj\x86\Debug\atestat1.schimbareparola.resources
+C:\Users\trifa\OneDrive\Desktop\ultima fita varianta 2\atestat1\atestat1\obj\x86\Debug\atestat1.csproj.GenerateResource.Cache
+C:\Users\trifa\OneDrive\Desktop\smr tu\atestat1\atestat1\bin\Debug\atestat1.exe.config
+C:\Users\trifa\OneDrive\Desktop\smr tu\atestat1\atestat1\obj\x86\Debug\Interop.AcroPDFLib.dll
+C:\Users\trifa\OneDrive\Desktop\smr tu\atestat1\atestat1\obj\x86\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\trifa\OneDrive\Desktop\smr tu\atestat1\atestat1\obj\x86\Debug\atestat1.csproj.ResolveComReference.cache
+C:\Users\trifa\OneDrive\Desktop\smr tu\atestat1\atestat1\obj\x86\Debug\atestat1.exe
+C:\Users\trifa\OneDrive\Desktop\smr tu\atestat1\atestat1\obj\x86\Debug\atestat1.pdb
+C:\Users\trifa\OneDrive\Desktop\smr tu\atestat1\atestat1\bin\Debug\db1.sdf
+C:\Users\trifa\OneDrive\Desktop\smr tu\atestat1\atestat1\bin\Debug\Inregistrare.resx
+C:\Users\trifa\OneDrive\Desktop\smr tu\atestat1\atestat1\bin\Debug\Login.resx
+C:\Users\trifa\OneDrive\Desktop\smr tu\atestat1\atestat1\bin\Debug\Inregistrare.cs
+C:\Users\trifa\OneDrive\Desktop\smr tu\atestat1\atestat1\bin\Debug\Inregistrare.Designer.cs
+C:\Users\trifa\OneDrive\Desktop\smr tu\atestat1\atestat1\bin\Debug\Login.cs
+C:\Users\trifa\OneDrive\Desktop\smr tu\atestat1\atestat1\bin\Debug\Login.Designer.cs
+C:\Users\trifa\OneDrive\Desktop\smr tu\atestat1\atestat1\bin\Debug\atestat1.exe
+C:\Users\trifa\OneDrive\Desktop\smr tu\atestat1\atestat1\bin\Debug\atestat1.pdb
+C:\Users\trifa\OneDrive\Desktop\smr tu\atestat1\atestat1\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\trifa\OneDrive\Desktop\smr tu\atestat1\atestat1\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\trifa\OneDrive\Desktop\smr tu\atestat1\atestat1\obj\x86\Debug\atestat1.csprojResolveAssemblyReference.cache
+C:\Users\trifa\OneDrive\Desktop\smr tu\atestat1\atestat1\obj\x86\Debug\atestat1.codulrutier.resources
+C:\Users\trifa\OneDrive\Desktop\smr tu\atestat1\atestat1\obj\x86\Debug\atestat1.examen.resources
+C:\Users\trifa\OneDrive\Desktop\smr tu\atestat1\atestat1\obj\x86\Debug\atestat1.Inregistrare.resources
+C:\Users\trifa\OneDrive\Desktop\smr tu\atestat1\atestat1\obj\x86\Debug\atestat1.Login.resources
+C:\Users\trifa\OneDrive\Desktop\smr tu\atestat1\atestat1\obj\x86\Debug\atestat1.Main.resources
+C:\Users\trifa\OneDrive\Desktop\smr tu\atestat1\atestat1\obj\x86\Debug\atestat1.mediudeinvatare.resources
+C:\Users\trifa\OneDrive\Desktop\smr tu\atestat1\atestat1\obj\x86\Debug\atestat1.mediudeinvatarestart.resources
+C:\Users\trifa\OneDrive\Desktop\smr tu\atestat1\atestat1\obj\x86\Debug\atestat1.Properties.Resources.resources
+C:\Users\trifa\OneDrive\Desktop\smr tu\atestat1\atestat1\obj\x86\Debug\atestat1.schimbareparola.resources
+C:\Users\trifa\OneDrive\Desktop\smr tu\atestat1\atestat1\obj\x86\Debug\atestat1.csproj.GenerateResource.Cache
+C:\Users\trifa\OneDrive\Desktop\smr tu versiunea doi\atestat1\atestat1\bin\Debug\atestat1.exe.config
+C:\Users\trifa\OneDrive\Desktop\smr tu versiunea doi\atestat1\atestat1\obj\x86\Debug\Interop.AcroPDFLib.dll
+C:\Users\trifa\OneDrive\Desktop\smr tu versiunea doi\atestat1\atestat1\obj\x86\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\trifa\OneDrive\Desktop\smr tu versiunea doi\atestat1\atestat1\obj\x86\Debug\atestat1.csproj.ResolveComReference.cache
+C:\Users\trifa\OneDrive\Desktop\smr tu versiunea doi\atestat1\atestat1\obj\x86\Debug\atestat1.exe
+C:\Users\trifa\OneDrive\Desktop\smr tu versiunea doi\atestat1\atestat1\obj\x86\Debug\atestat1.pdb
+C:\Users\trifa\OneDrive\Desktop\smr tu versiunea doi\atestat1\atestat1\bin\Debug\db1.sdf
+C:\Users\trifa\OneDrive\Desktop\smr tu versiunea doi\atestat1\atestat1\bin\Debug\Inregistrare.resx
+C:\Users\trifa\OneDrive\Desktop\smr tu versiunea doi\atestat1\atestat1\bin\Debug\Login.resx
+C:\Users\trifa\OneDrive\Desktop\smr tu versiunea doi\atestat1\atestat1\bin\Debug\Inregistrare.cs
+C:\Users\trifa\OneDrive\Desktop\smr tu versiunea doi\atestat1\atestat1\bin\Debug\Inregistrare.Designer.cs
+C:\Users\trifa\OneDrive\Desktop\smr tu versiunea doi\atestat1\atestat1\bin\Debug\Login.cs
+C:\Users\trifa\OneDrive\Desktop\smr tu versiunea doi\atestat1\atestat1\bin\Debug\Login.Designer.cs
+C:\Users\trifa\OneDrive\Desktop\smr tu versiunea doi\atestat1\atestat1\bin\Debug\atestat1.exe
+C:\Users\trifa\OneDrive\Desktop\smr tu versiunea doi\atestat1\atestat1\bin\Debug\atestat1.pdb
+C:\Users\trifa\OneDrive\Desktop\smr tu versiunea doi\atestat1\atestat1\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\trifa\OneDrive\Desktop\smr tu versiunea doi\atestat1\atestat1\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\trifa\OneDrive\Desktop\smr tu versiunea doi\atestat1\atestat1\obj\x86\Debug\atestat1.csprojResolveAssemblyReference.cache
+C:\Users\trifa\OneDrive\Desktop\smr tu versiunea doi\atestat1\atestat1\obj\x86\Debug\atestat1.codulrutier.resources
+C:\Users\trifa\OneDrive\Desktop\smr tu versiunea doi\atestat1\atestat1\obj\x86\Debug\atestat1.examen.resources
+C:\Users\trifa\OneDrive\Desktop\smr tu versiunea doi\atestat1\atestat1\obj\x86\Debug\atestat1.Inregistrare.resources
+C:\Users\trifa\OneDrive\Desktop\smr tu versiunea doi\atestat1\atestat1\obj\x86\Debug\atestat1.Login.resources
+C:\Users\trifa\OneDrive\Desktop\smr tu versiunea doi\atestat1\atestat1\obj\x86\Debug\atestat1.Main.resources
+C:\Users\trifa\OneDrive\Desktop\smr tu versiunea doi\atestat1\atestat1\obj\x86\Debug\atestat1.mediudeinvatare.resources
+C:\Users\trifa\OneDrive\Desktop\smr tu versiunea doi\atestat1\atestat1\obj\x86\Debug\atestat1.mediudeinvatarestart.resources
+C:\Users\trifa\OneDrive\Desktop\smr tu versiunea doi\atestat1\atestat1\obj\x86\Debug\atestat1.Properties.Resources.resources
+C:\Users\trifa\OneDrive\Desktop\smr tu versiunea doi\atestat1\atestat1\obj\x86\Debug\atestat1.schimbareparola.resources
+C:\Users\trifa\OneDrive\Desktop\smr tu versiunea doi\atestat1\atestat1\obj\x86\Debug\atestat1.csproj.GenerateResource.Cache
+C:\Users\trifa\OneDrive\Desktop\versiunea finala-ramas de facut statisticile si schimbarea\atestat1\atestat1\bin\Debug\atestat1.exe.config
+C:\Users\trifa\OneDrive\Desktop\versiunea finala-ramas de facut statisticile si schimbarea\atestat1\atestat1\obj\x86\Debug\Interop.AcroPDFLib.dll
+C:\Users\trifa\OneDrive\Desktop\versiunea finala-ramas de facut statisticile si schimbarea\atestat1\atestat1\obj\x86\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\trifa\OneDrive\Desktop\versiunea finala-ramas de facut statisticile si schimbarea\atestat1\atestat1\obj\x86\Debug\atestat1.csproj.ResolveComReference.cache
+C:\Users\trifa\OneDrive\Desktop\versiunea finala-ramas de facut statisticile si schimbarea\atestat1\atestat1\obj\x86\Debug\atestat1.exe
+C:\Users\trifa\OneDrive\Desktop\versiunea finala-ramas de facut statisticile si schimbarea\atestat1\atestat1\obj\x86\Debug\atestat1.pdb
+C:\Users\trifa\OneDrive\Desktop\versiunea finala-ramas de facut statisticile si schimbarea\atestat1\atestat1\bin\Debug\db1.sdf
+C:\Users\trifa\OneDrive\Desktop\versiunea finala-ramas de facut statisticile si schimbarea\atestat1\atestat1\bin\Debug\Inregistrare.resx
+C:\Users\trifa\OneDrive\Desktop\versiunea finala-ramas de facut statisticile si schimbarea\atestat1\atestat1\bin\Debug\Login.resx
+C:\Users\trifa\OneDrive\Desktop\versiunea finala-ramas de facut statisticile si schimbarea\atestat1\atestat1\bin\Debug\Inregistrare.cs
+C:\Users\trifa\OneDrive\Desktop\versiunea finala-ramas de facut statisticile si schimbarea\atestat1\atestat1\bin\Debug\Inregistrare.Designer.cs
+C:\Users\trifa\OneDrive\Desktop\versiunea finala-ramas de facut statisticile si schimbarea\atestat1\atestat1\bin\Debug\Login.cs
+C:\Users\trifa\OneDrive\Desktop\versiunea finala-ramas de facut statisticile si schimbarea\atestat1\atestat1\bin\Debug\Login.Designer.cs
+C:\Users\trifa\OneDrive\Desktop\versiunea finala-ramas de facut statisticile si schimbarea\atestat1\atestat1\bin\Debug\atestat1.exe
+C:\Users\trifa\OneDrive\Desktop\versiunea finala-ramas de facut statisticile si schimbarea\atestat1\atestat1\bin\Debug\atestat1.pdb
+C:\Users\trifa\OneDrive\Desktop\versiunea finala-ramas de facut statisticile si schimbarea\atestat1\atestat1\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\trifa\OneDrive\Desktop\versiunea finala-ramas de facut statisticile si schimbarea\atestat1\atestat1\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\trifa\OneDrive\Desktop\versiunea finala-ramas de facut statisticile si schimbarea\atestat1\atestat1\obj\x86\Debug\atestat1.csprojResolveAssemblyReference.cache
+C:\Users\trifa\OneDrive\Desktop\versiunea finala-ramas de facut statisticile si schimbarea\atestat1\atestat1\obj\x86\Debug\atestat1.codulrutier.resources
+C:\Users\trifa\OneDrive\Desktop\versiunea finala-ramas de facut statisticile si schimbarea\atestat1\atestat1\obj\x86\Debug\atestat1.examen.resources
+C:\Users\trifa\OneDrive\Desktop\versiunea finala-ramas de facut statisticile si schimbarea\atestat1\atestat1\obj\x86\Debug\atestat1.Inregistrare.resources
+C:\Users\trifa\OneDrive\Desktop\versiunea finala-ramas de facut statisticile si schimbarea\atestat1\atestat1\obj\x86\Debug\atestat1.Login.resources
+C:\Users\trifa\OneDrive\Desktop\versiunea finala-ramas de facut statisticile si schimbarea\atestat1\atestat1\obj\x86\Debug\atestat1.Main.resources
+C:\Users\trifa\OneDrive\Desktop\versiunea finala-ramas de facut statisticile si schimbarea\atestat1\atestat1\obj\x86\Debug\atestat1.mediudeinvatare.resources
+C:\Users\trifa\OneDrive\Desktop\versiunea finala-ramas de facut statisticile si schimbarea\atestat1\atestat1\obj\x86\Debug\atestat1.mediudeinvatarestart.resources
+C:\Users\trifa\OneDrive\Desktop\versiunea finala-ramas de facut statisticile si schimbarea\atestat1\atestat1\obj\x86\Debug\atestat1.Properties.Resources.resources
+C:\Users\trifa\OneDrive\Desktop\versiunea finala-ramas de facut statisticile si schimbarea\atestat1\atestat1\obj\x86\Debug\atestat1.schimbareparola.resources
+C:\Users\trifa\OneDrive\Desktop\versiunea finala-ramas de facut statisticile si schimbarea\atestat1\atestat1\obj\x86\Debug\atestat1.csproj.GenerateResource.Cache
+C:\Users\trifa\OneDrive\Desktop\versiunea obraznica\atestat1\atestat1\bin\Debug\atestat1.exe.config
+C:\Users\trifa\OneDrive\Desktop\versiunea obraznica\atestat1\atestat1\obj\x86\Debug\Interop.AcroPDFLib.dll
+C:\Users\trifa\OneDrive\Desktop\versiunea obraznica\atestat1\atestat1\obj\x86\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\trifa\OneDrive\Desktop\versiunea obraznica\atestat1\atestat1\obj\x86\Debug\atestat1.csproj.ResolveComReference.cache
+C:\Users\trifa\OneDrive\Desktop\versiunea obraznica\atestat1\atestat1\obj\x86\Debug\atestat1.exe
+C:\Users\trifa\OneDrive\Desktop\versiunea obraznica\atestat1\atestat1\obj\x86\Debug\atestat1.pdb
+C:\Users\trifa\OneDrive\Desktop\versiunea obraznica\atestat1\atestat1\bin\Debug\db1.sdf
+C:\Users\trifa\OneDrive\Desktop\versiunea obraznica\atestat1\atestat1\bin\Debug\Inregistrare.resx
+C:\Users\trifa\OneDrive\Desktop\versiunea obraznica\atestat1\atestat1\bin\Debug\Login.resx
+C:\Users\trifa\OneDrive\Desktop\versiunea obraznica\atestat1\atestat1\bin\Debug\Inregistrare.cs
+C:\Users\trifa\OneDrive\Desktop\versiunea obraznica\atestat1\atestat1\bin\Debug\Inregistrare.Designer.cs
+C:\Users\trifa\OneDrive\Desktop\versiunea obraznica\atestat1\atestat1\bin\Debug\Login.cs
+C:\Users\trifa\OneDrive\Desktop\versiunea obraznica\atestat1\atestat1\bin\Debug\Login.Designer.cs
+C:\Users\trifa\OneDrive\Desktop\versiunea obraznica\atestat1\atestat1\bin\Debug\atestat1.exe
+C:\Users\trifa\OneDrive\Desktop\versiunea obraznica\atestat1\atestat1\bin\Debug\atestat1.pdb
+C:\Users\trifa\OneDrive\Desktop\versiunea obraznica\atestat1\atestat1\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\trifa\OneDrive\Desktop\versiunea obraznica\atestat1\atestat1\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\trifa\OneDrive\Desktop\versiunea obraznica\atestat1\atestat1\obj\x86\Debug\atestat1.csprojResolveAssemblyReference.cache
+C:\Users\trifa\OneDrive\Desktop\versiunea obraznica\atestat1\atestat1\obj\x86\Debug\atestat1.codulrutier.resources
+C:\Users\trifa\OneDrive\Desktop\versiunea obraznica\atestat1\atestat1\obj\x86\Debug\atestat1.examen.resources
+C:\Users\trifa\OneDrive\Desktop\versiunea obraznica\atestat1\atestat1\obj\x86\Debug\atestat1.Inregistrare.resources
+C:\Users\trifa\OneDrive\Desktop\versiunea obraznica\atestat1\atestat1\obj\x86\Debug\atestat1.Login.resources
+C:\Users\trifa\OneDrive\Desktop\versiunea obraznica\atestat1\atestat1\obj\x86\Debug\atestat1.Main.resources
+C:\Users\trifa\OneDrive\Desktop\versiunea obraznica\atestat1\atestat1\obj\x86\Debug\atestat1.mediudeinvatare.resources
+C:\Users\trifa\OneDrive\Desktop\versiunea obraznica\atestat1\atestat1\obj\x86\Debug\atestat1.mediudeinvatarestart.resources
+C:\Users\trifa\OneDrive\Desktop\versiunea obraznica\atestat1\atestat1\obj\x86\Debug\atestat1.Properties.Resources.resources
+C:\Users\trifa\OneDrive\Desktop\versiunea obraznica\atestat1\atestat1\obj\x86\Debug\atestat1.schimbareparola.resources
+C:\Users\trifa\OneDrive\Desktop\versiunea obraznica\atestat1\atestat1\obj\x86\Debug\atestat1.csproj.GenerateResource.Cache
+C:\Users\trifa\OneDrive\Desktop\versiunea ma sinucid\atestat1\atestat1\bin\Debug\atestat1.exe.config
+C:\Users\trifa\OneDrive\Desktop\versiunea ma sinucid\atestat1\atestat1\obj\x86\Debug\Interop.AcroPDFLib.dll
+C:\Users\trifa\OneDrive\Desktop\versiunea ma sinucid\atestat1\atestat1\obj\x86\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\trifa\OneDrive\Desktop\versiunea ma sinucid\atestat1\atestat1\obj\x86\Debug\atestat1.csproj.ResolveComReference.cache
+C:\Users\trifa\OneDrive\Desktop\versiunea ma sinucid\atestat1\atestat1\obj\x86\Debug\atestat1.exe
+C:\Users\trifa\OneDrive\Desktop\versiunea ma sinucid\atestat1\atestat1\obj\x86\Debug\atestat1.pdb
+C:\Users\trifa\OneDrive\Desktop\versiunea ma sinucid\atestat1\atestat1\bin\Debug\db1.sdf
+C:\Users\trifa\OneDrive\Desktop\versiunea ma sinucid\atestat1\atestat1\bin\Debug\Inregistrare.resx
+C:\Users\trifa\OneDrive\Desktop\versiunea ma sinucid\atestat1\atestat1\bin\Debug\Login.resx
+C:\Users\trifa\OneDrive\Desktop\versiunea ma sinucid\atestat1\atestat1\bin\Debug\Inregistrare.cs
+C:\Users\trifa\OneDrive\Desktop\versiunea ma sinucid\atestat1\atestat1\bin\Debug\Inregistrare.Designer.cs
+C:\Users\trifa\OneDrive\Desktop\versiunea ma sinucid\atestat1\atestat1\bin\Debug\Login.cs
+C:\Users\trifa\OneDrive\Desktop\versiunea ma sinucid\atestat1\atestat1\bin\Debug\Login.Designer.cs
+C:\Users\trifa\OneDrive\Desktop\versiunea ma sinucid\atestat1\atestat1\bin\Debug\atestat1.exe
+C:\Users\trifa\OneDrive\Desktop\versiunea ma sinucid\atestat1\atestat1\bin\Debug\atestat1.pdb
+C:\Users\trifa\OneDrive\Desktop\versiunea ma sinucid\atestat1\atestat1\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\trifa\OneDrive\Desktop\versiunea ma sinucid\atestat1\atestat1\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\trifa\OneDrive\Desktop\versiunea ma sinucid\atestat1\atestat1\obj\x86\Debug\atestat1.csprojResolveAssemblyReference.cache
+C:\Users\trifa\OneDrive\Desktop\versiunea ma sinucid\atestat1\atestat1\obj\x86\Debug\atestat1.codulrutier.resources
+C:\Users\trifa\OneDrive\Desktop\versiunea ma sinucid\atestat1\atestat1\obj\x86\Debug\atestat1.examen.resources
+C:\Users\trifa\OneDrive\Desktop\versiunea ma sinucid\atestat1\atestat1\obj\x86\Debug\atestat1.Inregistrare.resources
+C:\Users\trifa\OneDrive\Desktop\versiunea ma sinucid\atestat1\atestat1\obj\x86\Debug\atestat1.Login.resources
+C:\Users\trifa\OneDrive\Desktop\versiunea ma sinucid\atestat1\atestat1\obj\x86\Debug\atestat1.Main.resources
+C:\Users\trifa\OneDrive\Desktop\versiunea ma sinucid\atestat1\atestat1\obj\x86\Debug\atestat1.mediudeinvatare.resources
+C:\Users\trifa\OneDrive\Desktop\versiunea ma sinucid\atestat1\atestat1\obj\x86\Debug\atestat1.mediudeinvatarestart.resources
+C:\Users\trifa\OneDrive\Desktop\versiunea ma sinucid\atestat1\atestat1\obj\x86\Debug\atestat1.Properties.Resources.resources
+C:\Users\trifa\OneDrive\Desktop\versiunea ma sinucid\atestat1\atestat1\obj\x86\Debug\atestat1.schimbareparola.resources
+C:\Users\trifa\OneDrive\Desktop\versiunea ma sinucid\atestat1\atestat1\obj\x86\Debug\atestat1.csproj.GenerateResource.Cache
+C:\Users\trifa\OneDrive\Desktop\versiunea finala\atestat1\atestat1\bin\Debug\atestat1.exe.config
+C:\Users\trifa\OneDrive\Desktop\versiunea finala\atestat1\atestat1\obj\x86\Debug\Interop.AcroPDFLib.dll
+C:\Users\trifa\OneDrive\Desktop\versiunea finala\atestat1\atestat1\obj\x86\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\trifa\OneDrive\Desktop\versiunea finala\atestat1\atestat1\obj\x86\Debug\atestat1.csproj.ResolveComReference.cache
+C:\Users\trifa\OneDrive\Desktop\versiunea finala\atestat1\atestat1\obj\x86\Debug\atestat1.exe
+C:\Users\trifa\OneDrive\Desktop\versiunea finala\atestat1\atestat1\obj\x86\Debug\atestat1.pdb
+C:\Users\trifa\OneDrive\Desktop\versiunea finala\atestat1\atestat1\bin\Debug\db1.sdf
+C:\Users\trifa\OneDrive\Desktop\versiunea finala\atestat1\atestat1\bin\Debug\Inregistrare.resx
+C:\Users\trifa\OneDrive\Desktop\versiunea finala\atestat1\atestat1\bin\Debug\Login.resx
+C:\Users\trifa\OneDrive\Desktop\versiunea finala\atestat1\atestat1\bin\Debug\Inregistrare.cs
+C:\Users\trifa\OneDrive\Desktop\versiunea finala\atestat1\atestat1\bin\Debug\Inregistrare.Designer.cs
+C:\Users\trifa\OneDrive\Desktop\versiunea finala\atestat1\atestat1\bin\Debug\Login.cs
+C:\Users\trifa\OneDrive\Desktop\versiunea finala\atestat1\atestat1\bin\Debug\Login.Designer.cs
+C:\Users\trifa\OneDrive\Desktop\versiunea finala\atestat1\atestat1\bin\Debug\atestat1.exe
+C:\Users\trifa\OneDrive\Desktop\versiunea finala\atestat1\atestat1\bin\Debug\atestat1.pdb
+C:\Users\trifa\OneDrive\Desktop\versiunea finala\atestat1\atestat1\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\trifa\OneDrive\Desktop\versiunea finala\atestat1\atestat1\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\trifa\OneDrive\Desktop\versiunea finala\atestat1\atestat1\obj\x86\Debug\atestat1.csprojResolveAssemblyReference.cache
+C:\Users\trifa\OneDrive\Desktop\versiunea finala\atestat1\atestat1\obj\x86\Debug\atestat1.codulrutier.resources
+C:\Users\trifa\OneDrive\Desktop\versiunea finala\atestat1\atestat1\obj\x86\Debug\atestat1.examen.resources
+C:\Users\trifa\OneDrive\Desktop\versiunea finala\atestat1\atestat1\obj\x86\Debug\atestat1.Inregistrare.resources
+C:\Users\trifa\OneDrive\Desktop\versiunea finala\atestat1\atestat1\obj\x86\Debug\atestat1.Login.resources
+C:\Users\trifa\OneDrive\Desktop\versiunea finala\atestat1\atestat1\obj\x86\Debug\atestat1.Main.resources
+C:\Users\trifa\OneDrive\Desktop\versiunea finala\atestat1\atestat1\obj\x86\Debug\atestat1.mediudeinvatare.resources
+C:\Users\trifa\OneDrive\Desktop\versiunea finala\atestat1\atestat1\obj\x86\Debug\atestat1.mediudeinvatarestart.resources
+C:\Users\trifa\OneDrive\Desktop\versiunea finala\atestat1\atestat1\obj\x86\Debug\atestat1.Properties.Resources.resources
+C:\Users\trifa\OneDrive\Desktop\versiunea finala\atestat1\atestat1\obj\x86\Debug\atestat1.schimbareparola.resources
+C:\Users\trifa\OneDrive\Desktop\versiunea finala\atestat1\atestat1\obj\x86\Debug\atestat1.csproj.GenerateResource.Cache
+C:\Users\trifa\OneDrive\Desktop\versiunea finala cu eroarea la numarul de teste la inceput\atestat1\atestat1\bin\Debug\atestat1.exe.config
+C:\Users\trifa\OneDrive\Desktop\versiunea finala cu eroarea la numarul de teste la inceput\atestat1\atestat1\obj\x86\Debug\Interop.AcroPDFLib.dll
+C:\Users\trifa\OneDrive\Desktop\versiunea finala cu eroarea la numarul de teste la inceput\atestat1\atestat1\obj\x86\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\trifa\OneDrive\Desktop\versiunea finala cu eroarea la numarul de teste la inceput\atestat1\atestat1\obj\x86\Debug\atestat1.csproj.ResolveComReference.cache
+C:\Users\trifa\OneDrive\Desktop\versiunea finala cu eroarea la numarul de teste la inceput\atestat1\atestat1\obj\x86\Debug\atestat1.exe
+C:\Users\trifa\OneDrive\Desktop\versiunea finala cu eroarea la numarul de teste la inceput\atestat1\atestat1\obj\x86\Debug\atestat1.pdb
+C:\Users\trifa\OneDrive\Desktop\versiunea finala cu eroarea la numarul de teste la inceput\atestat1\atestat1\bin\Debug\db1.sdf
+C:\Users\trifa\OneDrive\Desktop\versiunea finala cu eroarea la numarul de teste la inceput\atestat1\atestat1\bin\Debug\Inregistrare.resx
+C:\Users\trifa\OneDrive\Desktop\versiunea finala cu eroarea la numarul de teste la inceput\atestat1\atestat1\bin\Debug\Login.resx
+C:\Users\trifa\OneDrive\Desktop\versiunea finala cu eroarea la numarul de teste la inceput\atestat1\atestat1\bin\Debug\Inregistrare.cs
+C:\Users\trifa\OneDrive\Desktop\versiunea finala cu eroarea la numarul de teste la inceput\atestat1\atestat1\bin\Debug\Inregistrare.Designer.cs
+C:\Users\trifa\OneDrive\Desktop\versiunea finala cu eroarea la numarul de teste la inceput\atestat1\atestat1\bin\Debug\Login.cs
+C:\Users\trifa\OneDrive\Desktop\versiunea finala cu eroarea la numarul de teste la inceput\atestat1\atestat1\bin\Debug\Login.Designer.cs
+C:\Users\trifa\OneDrive\Desktop\versiunea finala cu eroarea la numarul de teste la inceput\atestat1\atestat1\bin\Debug\atestat1.exe
+C:\Users\trifa\OneDrive\Desktop\versiunea finala cu eroarea la numarul de teste la inceput\atestat1\atestat1\bin\Debug\atestat1.pdb
+C:\Users\trifa\OneDrive\Desktop\versiunea finala cu eroarea la numarul de teste la inceput\atestat1\atestat1\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\trifa\OneDrive\Desktop\versiunea finala cu eroarea la numarul de teste la inceput\atestat1\atestat1\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\trifa\OneDrive\Desktop\versiunea finala cu eroarea la numarul de teste la inceput\atestat1\atestat1\obj\x86\Debug\atestat1.csprojResolveAssemblyReference.cache
+C:\Users\trifa\OneDrive\Desktop\versiunea finala cu eroarea la numarul de teste la inceput\atestat1\atestat1\obj\x86\Debug\atestat1.codulrutier.resources
+C:\Users\trifa\OneDrive\Desktop\versiunea finala cu eroarea la numarul de teste la inceput\atestat1\atestat1\obj\x86\Debug\atestat1.examen.resources
+C:\Users\trifa\OneDrive\Desktop\versiunea finala cu eroarea la numarul de teste la inceput\atestat1\atestat1\obj\x86\Debug\atestat1.Inregistrare.resources
+C:\Users\trifa\OneDrive\Desktop\versiunea finala cu eroarea la numarul de teste la inceput\atestat1\atestat1\obj\x86\Debug\atestat1.Login.resources
+C:\Users\trifa\OneDrive\Desktop\versiunea finala cu eroarea la numarul de teste la inceput\atestat1\atestat1\obj\x86\Debug\atestat1.Main.resources
+C:\Users\trifa\OneDrive\Desktop\versiunea finala cu eroarea la numarul de teste la inceput\atestat1\atestat1\obj\x86\Debug\atestat1.mediudeinvatare.resources
+C:\Users\trifa\OneDrive\Desktop\versiunea finala cu eroarea la numarul de teste la inceput\atestat1\atestat1\obj\x86\Debug\atestat1.mediudeinvatarestart.resources
+C:\Users\trifa\OneDrive\Desktop\versiunea finala cu eroarea la numarul de teste la inceput\atestat1\atestat1\obj\x86\Debug\atestat1.Properties.Resources.resources
+C:\Users\trifa\OneDrive\Desktop\versiunea finala cu eroarea la numarul de teste la inceput\atestat1\atestat1\obj\x86\Debug\atestat1.schimbareparola.resources
+C:\Users\trifa\OneDrive\Desktop\versiunea finala cu eroarea la numarul de teste la inceput\atestat1\atestat1\obj\x86\Debug\atestat1.csproj.GenerateResource.Cache
+C:\Users\trifa\OneDrive\Desktop\versiunea finala cu eroarea la numarul de teste la inceput - plus fara schimbarea parolei\atestat1\atestat1\bin\Debug\atestat1.exe.config
+C:\Users\trifa\OneDrive\Desktop\versiunea finala cu eroarea la numarul de teste la inceput - plus fara schimbarea parolei\atestat1\atestat1\obj\x86\Debug\Interop.AcroPDFLib.dll
+C:\Users\trifa\OneDrive\Desktop\versiunea finala cu eroarea la numarul de teste la inceput - plus fara schimbarea parolei\atestat1\atestat1\obj\x86\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\trifa\OneDrive\Desktop\versiunea finala cu eroarea la numarul de teste la inceput - plus fara schimbarea parolei\atestat1\atestat1\obj\x86\Debug\atestat1.csproj.ResolveComReference.cache
+C:\Users\trifa\OneDrive\Desktop\versiunea finala cu eroarea la numarul de teste la inceput - plus fara schimbarea parolei\atestat1\atestat1\obj\x86\Debug\atestat1.exe
+C:\Users\trifa\OneDrive\Desktop\versiunea finala cu eroarea la numarul de teste la inceput - plus fara schimbarea parolei\atestat1\atestat1\obj\x86\Debug\atestat1.pdb
+C:\Users\trifa\OneDrive\Desktop\versiunea finala cu eroarea la numarul de teste la inceput - plus fara schimbarea parolei\atestat1\atestat1\bin\Debug\db1.sdf
+C:\Users\trifa\OneDrive\Desktop\versiunea finala cu eroarea la numarul de teste la inceput - plus fara schimbarea parolei\atestat1\atestat1\bin\Debug\Inregistrare.resx
+C:\Users\trifa\OneDrive\Desktop\versiunea finala cu eroarea la numarul de teste la inceput - plus fara schimbarea parolei\atestat1\atestat1\bin\Debug\Login.resx
+C:\Users\trifa\OneDrive\Desktop\versiunea finala cu eroarea la numarul de teste la inceput - plus fara schimbarea parolei\atestat1\atestat1\bin\Debug\Inregistrare.cs
+C:\Users\trifa\OneDrive\Desktop\versiunea finala cu eroarea la numarul de teste la inceput - plus fara schimbarea parolei\atestat1\atestat1\bin\Debug\Inregistrare.Designer.cs
+C:\Users\trifa\OneDrive\Desktop\versiunea finala cu eroarea la numarul de teste la inceput - plus fara schimbarea parolei\atestat1\atestat1\bin\Debug\Login.cs
+C:\Users\trifa\OneDrive\Desktop\versiunea finala cu eroarea la numarul de teste la inceput - plus fara schimbarea parolei\atestat1\atestat1\bin\Debug\Login.Designer.cs
+C:\Users\trifa\OneDrive\Desktop\versiunea finala cu eroarea la numarul de teste la inceput - plus fara schimbarea parolei\atestat1\atestat1\bin\Debug\atestat1.exe
+C:\Users\trifa\OneDrive\Desktop\versiunea finala cu eroarea la numarul de teste la inceput - plus fara schimbarea parolei\atestat1\atestat1\bin\Debug\atestat1.pdb
+C:\Users\trifa\OneDrive\Desktop\versiunea finala cu eroarea la numarul de teste la inceput - plus fara schimbarea parolei\atestat1\atestat1\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\trifa\OneDrive\Desktop\versiunea finala cu eroarea la numarul de teste la inceput - plus fara schimbarea parolei\atestat1\atestat1\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\trifa\OneDrive\Desktop\versiunea finala cu eroarea la numarul de teste la inceput - plus fara schimbarea parolei\atestat1\atestat1\obj\x86\Debug\atestat1.csprojResolveAssemblyReference.cache
+C:\Users\trifa\OneDrive\Desktop\versiunea finala cu eroarea la numarul de teste la inceput - plus fara schimbarea parolei\atestat1\atestat1\obj\x86\Debug\atestat1.codulrutier.resources
+C:\Users\trifa\OneDrive\Desktop\versiunea finala cu eroarea la numarul de teste la inceput - plus fara schimbarea parolei\atestat1\atestat1\obj\x86\Debug\atestat1.examen.resources
+C:\Users\trifa\OneDrive\Desktop\versiunea finala cu eroarea la numarul de teste la inceput - plus fara schimbarea parolei\atestat1\atestat1\obj\x86\Debug\atestat1.Inregistrare.resources
+C:\Users\trifa\OneDrive\Desktop\versiunea finala cu eroarea la numarul de teste la inceput - plus fara schimbarea parolei\atestat1\atestat1\obj\x86\Debug\atestat1.Login.resources
+C:\Users\trifa\OneDrive\Desktop\versiunea finala cu eroarea la numarul de teste la inceput - plus fara schimbarea parolei\atestat1\atestat1\obj\x86\Debug\atestat1.Main.resources
+C:\Users\trifa\OneDrive\Desktop\versiunea finala cu eroarea la numarul de teste la inceput - plus fara schimbarea parolei\atestat1\atestat1\obj\x86\Debug\atestat1.mediudeinvatare.resources
+C:\Users\trifa\OneDrive\Desktop\versiunea finala cu eroarea la numarul de teste la inceput - plus fara schimbarea parolei\atestat1\atestat1\obj\x86\Debug\atestat1.mediudeinvatarestart.resources
+C:\Users\trifa\OneDrive\Desktop\versiunea finala cu eroarea la numarul de teste la inceput - plus fara schimbarea parolei\atestat1\atestat1\obj\x86\Debug\atestat1.Properties.Resources.resources
+C:\Users\trifa\OneDrive\Desktop\versiunea finala cu eroarea la numarul de teste la inceput - plus fara schimbarea parolei\atestat1\atestat1\obj\x86\Debug\atestat1.schimbareparola.resources
+C:\Users\trifa\OneDrive\Desktop\versiunea finala cu eroarea la numarul de teste la inceput - plus fara schimbarea parolei\atestat1\atestat1\obj\x86\Debug\atestat1.csproj.GenerateResource.Cache
+C:\Users\trifa\OneDrive\Desktop\versiunea finala care numara de 2 ori testul la inceput si fara schimbare parola\atestat1\atestat1\bin\Debug\atestat1.exe.config
+C:\Users\trifa\OneDrive\Desktop\versiunea finala care numara de 2 ori testul la inceput si fara schimbare parola\atestat1\atestat1\obj\x86\Debug\Interop.AcroPDFLib.dll
+C:\Users\trifa\OneDrive\Desktop\versiunea finala care numara de 2 ori testul la inceput si fara schimbare parola\atestat1\atestat1\obj\x86\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\trifa\OneDrive\Desktop\versiunea finala care numara de 2 ori testul la inceput si fara schimbare parola\atestat1\atestat1\obj\x86\Debug\atestat1.csproj.ResolveComReference.cache
+C:\Users\trifa\OneDrive\Desktop\versiunea finala care numara de 2 ori testul la inceput si fara schimbare parola\atestat1\atestat1\obj\x86\Debug\atestat1.exe
+C:\Users\trifa\OneDrive\Desktop\versiunea finala care numara de 2 ori testul la inceput si fara schimbare parola\atestat1\atestat1\obj\x86\Debug\atestat1.pdb
+C:\Users\trifa\OneDrive\Desktop\versiunea finala care numara de 2 ori testul la inceput si fara schimbare parola\atestat1\atestat1\bin\Debug\db1.sdf
+C:\Users\trifa\OneDrive\Desktop\versiunea finala care numara de 2 ori testul la inceput si fara schimbare parola\atestat1\atestat1\bin\Debug\Inregistrare.resx
+C:\Users\trifa\OneDrive\Desktop\versiunea finala care numara de 2 ori testul la inceput si fara schimbare parola\atestat1\atestat1\bin\Debug\Login.resx
+C:\Users\trifa\OneDrive\Desktop\versiunea finala care numara de 2 ori testul la inceput si fara schimbare parola\atestat1\atestat1\bin\Debug\Inregistrare.cs
+C:\Users\trifa\OneDrive\Desktop\versiunea finala care numara de 2 ori testul la inceput si fara schimbare parola\atestat1\atestat1\bin\Debug\Inregistrare.Designer.cs
+C:\Users\trifa\OneDrive\Desktop\versiunea finala care numara de 2 ori testul la inceput si fara schimbare parola\atestat1\atestat1\bin\Debug\Login.cs
+C:\Users\trifa\OneDrive\Desktop\versiunea finala care numara de 2 ori testul la inceput si fara schimbare parola\atestat1\atestat1\bin\Debug\Login.Designer.cs
+C:\Users\trifa\OneDrive\Desktop\versiunea finala care numara de 2 ori testul la inceput si fara schimbare parola\atestat1\atestat1\bin\Debug\atestat1.exe
+C:\Users\trifa\OneDrive\Desktop\versiunea finala care numara de 2 ori testul la inceput si fara schimbare parola\atestat1\atestat1\bin\Debug\atestat1.pdb
+C:\Users\trifa\OneDrive\Desktop\versiunea finala care numara de 2 ori testul la inceput si fara schimbare parola\atestat1\atestat1\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\trifa\OneDrive\Desktop\versiunea finala care numara de 2 ori testul la inceput si fara schimbare parola\atestat1\atestat1\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\trifa\OneDrive\Desktop\versiunea finala care numara de 2 ori testul la inceput si fara schimbare parola\atestat1\atestat1\obj\x86\Debug\atestat1.csprojResolveAssemblyReference.cache
+C:\Users\trifa\OneDrive\Desktop\versiunea finala care numara de 2 ori testul la inceput si fara schimbare parola\atestat1\atestat1\obj\x86\Debug\atestat1.codulrutier.resources
+C:\Users\trifa\OneDrive\Desktop\versiunea finala care numara de 2 ori testul la inceput si fara schimbare parola\atestat1\atestat1\obj\x86\Debug\atestat1.examen.resources
+C:\Users\trifa\OneDrive\Desktop\versiunea finala care numara de 2 ori testul la inceput si fara schimbare parola\atestat1\atestat1\obj\x86\Debug\atestat1.Inregistrare.resources
+C:\Users\trifa\OneDrive\Desktop\versiunea finala care numara de 2 ori testul la inceput si fara schimbare parola\atestat1\atestat1\obj\x86\Debug\atestat1.Login.resources
+C:\Users\trifa\OneDrive\Desktop\versiunea finala care numara de 2 ori testul la inceput si fara schimbare parola\atestat1\atestat1\obj\x86\Debug\atestat1.Main.resources
+C:\Users\trifa\OneDrive\Desktop\versiunea finala care numara de 2 ori testul la inceput si fara schimbare parola\atestat1\atestat1\obj\x86\Debug\atestat1.mediudeinvatare.resources
+C:\Users\trifa\OneDrive\Desktop\versiunea finala care numara de 2 ori testul la inceput si fara schimbare parola\atestat1\atestat1\obj\x86\Debug\atestat1.Properties.Resources.resources
+C:\Users\trifa\OneDrive\Desktop\versiunea finala care numara de 2 ori testul la inceput si fara schimbare parola\atestat1\atestat1\obj\x86\Debug\atestat1.csproj.GenerateResource.Cache
+C:\Users\trifa\OneDrive\Desktop\versiunea johnny bravo\atestat1\atestat1\bin\Debug\atestat1.exe.config
+C:\Users\trifa\OneDrive\Desktop\versiunea johnny bravo\atestat1\atestat1\obj\x86\Debug\Interop.AcroPDFLib.dll
+C:\Users\trifa\OneDrive\Desktop\versiunea johnny bravo\atestat1\atestat1\obj\x86\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\trifa\OneDrive\Desktop\versiunea johnny bravo\atestat1\atestat1\obj\x86\Debug\atestat1.csproj.ResolveComReference.cache
+C:\Users\trifa\OneDrive\Desktop\versiunea johnny bravo\atestat1\atestat1\obj\x86\Debug\atestat1.exe
+C:\Users\trifa\OneDrive\Desktop\versiunea johnny bravo\atestat1\atestat1\obj\x86\Debug\atestat1.pdb
+C:\Users\trifa\OneDrive\Desktop\versiunea johnny bravo\atestat1\atestat1\bin\Debug\db1.sdf
+C:\Users\trifa\OneDrive\Desktop\versiunea johnny bravo\atestat1\atestat1\bin\Debug\Inregistrare.resx
+C:\Users\trifa\OneDrive\Desktop\versiunea johnny bravo\atestat1\atestat1\bin\Debug\Login.resx
+C:\Users\trifa\OneDrive\Desktop\versiunea johnny bravo\atestat1\atestat1\bin\Debug\Inregistrare.cs
+C:\Users\trifa\OneDrive\Desktop\versiunea johnny bravo\atestat1\atestat1\bin\Debug\Inregistrare.Designer.cs
+C:\Users\trifa\OneDrive\Desktop\versiunea johnny bravo\atestat1\atestat1\bin\Debug\Login.cs
+C:\Users\trifa\OneDrive\Desktop\versiunea johnny bravo\atestat1\atestat1\bin\Debug\Login.Designer.cs
+C:\Users\trifa\OneDrive\Desktop\versiunea johnny bravo\atestat1\atestat1\bin\Debug\atestat1.exe
+C:\Users\trifa\OneDrive\Desktop\versiunea johnny bravo\atestat1\atestat1\bin\Debug\atestat1.pdb
+C:\Users\trifa\OneDrive\Desktop\versiunea johnny bravo\atestat1\atestat1\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\trifa\OneDrive\Desktop\versiunea johnny bravo\atestat1\atestat1\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\trifa\OneDrive\Desktop\versiunea johnny bravo\atestat1\atestat1\obj\x86\Debug\atestat1.csprojResolveAssemblyReference.cache
+C:\Users\trifa\OneDrive\Desktop\versiunea johnny bravo\atestat1\atestat1\obj\x86\Debug\atestat1.codulrutier.resources
+C:\Users\trifa\OneDrive\Desktop\versiunea johnny bravo\atestat1\atestat1\obj\x86\Debug\atestat1.examen.resources
+C:\Users\trifa\OneDrive\Desktop\versiunea johnny bravo\atestat1\atestat1\obj\x86\Debug\atestat1.Inregistrare.resources
+C:\Users\trifa\OneDrive\Desktop\versiunea johnny bravo\atestat1\atestat1\obj\x86\Debug\atestat1.Login.resources
+C:\Users\trifa\OneDrive\Desktop\versiunea johnny bravo\atestat1\atestat1\obj\x86\Debug\atestat1.Main.resources
+C:\Users\trifa\OneDrive\Desktop\versiunea johnny bravo\atestat1\atestat1\obj\x86\Debug\atestat1.mediudeinvatare.resources
+C:\Users\trifa\OneDrive\Desktop\versiunea johnny bravo\atestat1\atestat1\obj\x86\Debug\atestat1.Properties.Resources.resources
+C:\Users\trifa\OneDrive\Desktop\versiunea johnny bravo\atestat1\atestat1\obj\x86\Debug\atestat1.csproj.GenerateResource.Cache
+C:\Users\trifa\OneDrive\Desktop\atestat-terminat\atestat1\atestat1\bin\Debug\atestat1.exe.config
+C:\Users\trifa\OneDrive\Desktop\atestat-terminat\atestat1\atestat1\obj\x86\Debug\Interop.AcroPDFLib.dll
+C:\Users\trifa\OneDrive\Desktop\atestat-terminat\atestat1\atestat1\obj\x86\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\trifa\OneDrive\Desktop\atestat-terminat\atestat1\atestat1\obj\x86\Debug\atestat1.csproj.ResolveComReference.cache
+C:\Users\trifa\OneDrive\Desktop\atestat-terminat\atestat1\atestat1\obj\x86\Debug\atestat1.exe
+C:\Users\trifa\OneDrive\Desktop\atestat-terminat\atestat1\atestat1\obj\x86\Debug\atestat1.pdb
+C:\Users\trifa\OneDrive\Desktop\atestat-terminat\atestat1\atestat1\bin\Debug\db1.sdf
+C:\Users\trifa\OneDrive\Desktop\atestat-terminat\atestat1\atestat1\bin\Debug\Inregistrare.resx
+C:\Users\trifa\OneDrive\Desktop\atestat-terminat\atestat1\atestat1\bin\Debug\Login.resx
+C:\Users\trifa\OneDrive\Desktop\atestat-terminat\atestat1\atestat1\bin\Debug\Inregistrare.cs
+C:\Users\trifa\OneDrive\Desktop\atestat-terminat\atestat1\atestat1\bin\Debug\Inregistrare.Designer.cs
+C:\Users\trifa\OneDrive\Desktop\atestat-terminat\atestat1\atestat1\bin\Debug\Login.cs
+C:\Users\trifa\OneDrive\Desktop\atestat-terminat\atestat1\atestat1\bin\Debug\Login.Designer.cs
+C:\Users\trifa\OneDrive\Desktop\atestat-terminat\atestat1\atestat1\bin\Debug\atestat1.exe
+C:\Users\trifa\OneDrive\Desktop\atestat-terminat\atestat1\atestat1\bin\Debug\atestat1.pdb
+C:\Users\trifa\OneDrive\Desktop\atestat-terminat\atestat1\atestat1\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\trifa\OneDrive\Desktop\atestat-terminat\atestat1\atestat1\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\trifa\OneDrive\Desktop\atestat-terminat\atestat1\atestat1\obj\x86\Debug\atestat1.csprojResolveAssemblyReference.cache
+C:\Users\trifa\OneDrive\Desktop\atestat-terminat\atestat1\atestat1\obj\x86\Debug\atestat1.codulrutier.resources
+C:\Users\trifa\OneDrive\Desktop\atestat-terminat\atestat1\atestat1\obj\x86\Debug\atestat1.examen.resources
+C:\Users\trifa\OneDrive\Desktop\atestat-terminat\atestat1\atestat1\obj\x86\Debug\atestat1.Inregistrare.resources
+C:\Users\trifa\OneDrive\Desktop\atestat-terminat\atestat1\atestat1\obj\x86\Debug\atestat1.Login.resources
+C:\Users\trifa\OneDrive\Desktop\atestat-terminat\atestat1\atestat1\obj\x86\Debug\atestat1.Main.resources
+C:\Users\trifa\OneDrive\Desktop\atestat-terminat\atestat1\atestat1\obj\x86\Debug\atestat1.mediudeinvatare.resources
+C:\Users\trifa\OneDrive\Desktop\atestat-terminat\atestat1\atestat1\obj\x86\Debug\atestat1.Properties.Resources.resources
+C:\Users\trifa\OneDrive\Desktop\atestat-terminat\atestat1\atestat1\obj\x86\Debug\atestat1.csproj.GenerateResource.Cache
+C:\Users\trifa\OneDrive\Desktop\Atestat-avala\atestat1\atestat1\bin\Debug\atestat1.exe.config
+C:\Users\trifa\OneDrive\Desktop\Atestat-avala\atestat1\atestat1\obj\x86\Debug\Interop.AcroPDFLib.dll
+C:\Users\trifa\OneDrive\Desktop\Atestat-avala\atestat1\atestat1\obj\x86\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\trifa\OneDrive\Desktop\Atestat-avala\atestat1\atestat1\obj\x86\Debug\atestat1.csproj.ResolveComReference.cache
+C:\Users\trifa\OneDrive\Desktop\Atestat-avala\atestat1\atestat1\obj\x86\Debug\atestat1.exe
+C:\Users\trifa\OneDrive\Desktop\Atestat-avala\atestat1\atestat1\obj\x86\Debug\atestat1.pdb
+C:\Users\trifa\OneDrive\Desktop\Atestat-avala\atestat1\atestat1\bin\Debug\db1.sdf
+C:\Users\trifa\OneDrive\Desktop\Atestat-avala\atestat1\atestat1\bin\Debug\Inregistrare.resx
+C:\Users\trifa\OneDrive\Desktop\Atestat-avala\atestat1\atestat1\bin\Debug\Login.resx
+C:\Users\trifa\OneDrive\Desktop\Atestat-avala\atestat1\atestat1\bin\Debug\Inregistrare.cs
+C:\Users\trifa\OneDrive\Desktop\Atestat-avala\atestat1\atestat1\bin\Debug\Inregistrare.Designer.cs
+C:\Users\trifa\OneDrive\Desktop\Atestat-avala\atestat1\atestat1\bin\Debug\Login.cs
+C:\Users\trifa\OneDrive\Desktop\Atestat-avala\atestat1\atestat1\bin\Debug\Login.Designer.cs
+C:\Users\trifa\OneDrive\Desktop\Atestat-avala\atestat1\atestat1\bin\Debug\atestat1.exe
+C:\Users\trifa\OneDrive\Desktop\Atestat-avala\atestat1\atestat1\bin\Debug\atestat1.pdb
+C:\Users\trifa\OneDrive\Desktop\Atestat-avala\atestat1\atestat1\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\trifa\OneDrive\Desktop\Atestat-avala\atestat1\atestat1\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\trifa\OneDrive\Desktop\Atestat-avala\atestat1\atestat1\obj\x86\Debug\atestat1.csprojResolveAssemblyReference.cache
+C:\Users\trifa\OneDrive\Desktop\Atestat-avala\atestat1\atestat1\obj\x86\Debug\atestat1.codulrutier.resources
+C:\Users\trifa\OneDrive\Desktop\Atestat-avala\atestat1\atestat1\obj\x86\Debug\atestat1.examen.resources
+C:\Users\trifa\OneDrive\Desktop\Atestat-avala\atestat1\atestat1\obj\x86\Debug\atestat1.Inregistrare.resources
+C:\Users\trifa\OneDrive\Desktop\Atestat-avala\atestat1\atestat1\obj\x86\Debug\atestat1.Login.resources
+C:\Users\trifa\OneDrive\Desktop\Atestat-avala\atestat1\atestat1\obj\x86\Debug\atestat1.Main.resources
+C:\Users\trifa\OneDrive\Desktop\Atestat-avala\atestat1\atestat1\obj\x86\Debug\atestat1.mediudeinvatare.resources
+C:\Users\trifa\OneDrive\Desktop\Atestat-avala\atestat1\atestat1\obj\x86\Debug\atestat1.Properties.Resources.resources
+C:\Users\trifa\OneDrive\Desktop\Atestat-avala\atestat1\atestat1\obj\x86\Debug\atestat1.csproj.GenerateResource.Cache
+C:\Users\trifa\OneDrive\Desktop\variante atestat\Atestat-avala\atestat1\atestat1\bin\Debug\atestat1.exe.config
+C:\Users\trifa\OneDrive\Desktop\variante atestat\Atestat-avala\atestat1\atestat1\obj\x86\Debug\Interop.AcroPDFLib.dll
+C:\Users\trifa\OneDrive\Desktop\variante atestat\Atestat-avala\atestat1\atestat1\obj\x86\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\trifa\OneDrive\Desktop\variante atestat\Atestat-avala\atestat1\atestat1\obj\x86\Debug\atestat1.csproj.ResolveComReference.cache
+C:\Users\trifa\OneDrive\Desktop\variante atestat\Atestat-avala\atestat1\atestat1\obj\x86\Debug\atestat1.exe
+C:\Users\trifa\OneDrive\Desktop\variante atestat\Atestat-avala\atestat1\atestat1\obj\x86\Debug\atestat1.pdb
+C:\Users\trifa\OneDrive\Desktop\variante atestat\Atestat-avala\atestat1\atestat1\bin\Debug\db1.sdf
+C:\Users\trifa\OneDrive\Desktop\variante atestat\Atestat-avala\atestat1\atestat1\bin\Debug\Inregistrare.resx
+C:\Users\trifa\OneDrive\Desktop\variante atestat\Atestat-avala\atestat1\atestat1\bin\Debug\Login.resx
+C:\Users\trifa\OneDrive\Desktop\variante atestat\Atestat-avala\atestat1\atestat1\bin\Debug\Inregistrare.cs
+C:\Users\trifa\OneDrive\Desktop\variante atestat\Atestat-avala\atestat1\atestat1\bin\Debug\Inregistrare.Designer.cs
+C:\Users\trifa\OneDrive\Desktop\variante atestat\Atestat-avala\atestat1\atestat1\bin\Debug\Login.cs
+C:\Users\trifa\OneDrive\Desktop\variante atestat\Atestat-avala\atestat1\atestat1\bin\Debug\Login.Designer.cs
+C:\Users\trifa\OneDrive\Desktop\variante atestat\Atestat-avala\atestat1\atestat1\bin\Debug\atestat1.exe
+C:\Users\trifa\OneDrive\Desktop\variante atestat\Atestat-avala\atestat1\atestat1\bin\Debug\atestat1.pdb
+C:\Users\trifa\OneDrive\Desktop\variante atestat\Atestat-avala\atestat1\atestat1\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\trifa\OneDrive\Desktop\variante atestat\Atestat-avala\atestat1\atestat1\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\trifa\OneDrive\Desktop\variante atestat\Atestat-avala\atestat1\atestat1\obj\x86\Debug\atestat1.csprojResolveAssemblyReference.cache
+C:\Users\trifa\OneDrive\Desktop\variante atestat\Atestat-avala\atestat1\atestat1\obj\x86\Debug\atestat1.codulrutier.resources
+C:\Users\trifa\OneDrive\Desktop\variante atestat\Atestat-avala\atestat1\atestat1\obj\x86\Debug\atestat1.examen.resources
+C:\Users\trifa\OneDrive\Desktop\variante atestat\Atestat-avala\atestat1\atestat1\obj\x86\Debug\atestat1.Inregistrare.resources
+C:\Users\trifa\OneDrive\Desktop\variante atestat\Atestat-avala\atestat1\atestat1\obj\x86\Debug\atestat1.Login.resources
+C:\Users\trifa\OneDrive\Desktop\variante atestat\Atestat-avala\atestat1\atestat1\obj\x86\Debug\atestat1.Main.resources
+C:\Users\trifa\OneDrive\Desktop\variante atestat\Atestat-avala\atestat1\atestat1\obj\x86\Debug\atestat1.mediudeinvatare.resources
+C:\Users\trifa\OneDrive\Desktop\variante atestat\Atestat-avala\atestat1\atestat1\obj\x86\Debug\atestat1.Properties.Resources.resources
+C:\Users\trifa\OneDrive\Desktop\variante atestat\Atestat-avala\atestat1\atestat1\obj\x86\Debug\atestat1.csproj.GenerateResource.Cache
+C:\Users\trifa\OneDrive\Desktop\Atestat-superbitate\atestat1\atestat1\bin\Debug\atestat1.exe.config
+C:\Users\trifa\OneDrive\Desktop\Atestat-superbitate\atestat1\atestat1\obj\x86\Debug\Interop.AcroPDFLib.dll
+C:\Users\trifa\OneDrive\Desktop\Atestat-superbitate\atestat1\atestat1\obj\x86\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\trifa\OneDrive\Desktop\Atestat-superbitate\atestat1\atestat1\obj\x86\Debug\atestat1.csproj.ResolveComReference.cache
+C:\Users\trifa\OneDrive\Desktop\Atestat-superbitate\atestat1\atestat1\obj\x86\Debug\atestat1.exe
+C:\Users\trifa\OneDrive\Desktop\Atestat-superbitate\atestat1\atestat1\obj\x86\Debug\atestat1.pdb
+C:\Users\trifa\OneDrive\Desktop\Atestat-superbitate\atestat1\atestat1\bin\Debug\db1.sdf
+C:\Users\trifa\OneDrive\Desktop\Atestat-superbitate\atestat1\atestat1\bin\Debug\Inregistrare.resx
+C:\Users\trifa\OneDrive\Desktop\Atestat-superbitate\atestat1\atestat1\bin\Debug\Login.resx
+C:\Users\trifa\OneDrive\Desktop\Atestat-superbitate\atestat1\atestat1\bin\Debug\Inregistrare.cs
+C:\Users\trifa\OneDrive\Desktop\Atestat-superbitate\atestat1\atestat1\bin\Debug\Inregistrare.Designer.cs
+C:\Users\trifa\OneDrive\Desktop\Atestat-superbitate\atestat1\atestat1\bin\Debug\Login.cs
+C:\Users\trifa\OneDrive\Desktop\Atestat-superbitate\atestat1\atestat1\bin\Debug\Login.Designer.cs
+C:\Users\trifa\OneDrive\Desktop\Atestat-superbitate\atestat1\atestat1\bin\Debug\atestat1.exe
+C:\Users\trifa\OneDrive\Desktop\Atestat-superbitate\atestat1\atestat1\bin\Debug\atestat1.pdb
+C:\Users\trifa\OneDrive\Desktop\Atestat-superbitate\atestat1\atestat1\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\trifa\OneDrive\Desktop\Atestat-superbitate\atestat1\atestat1\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\trifa\OneDrive\Desktop\Atestat-superbitate\atestat1\atestat1\obj\x86\Debug\atestat1.csprojResolveAssemblyReference.cache
+C:\Users\trifa\OneDrive\Desktop\Atestat-superbitate\atestat1\atestat1\obj\x86\Debug\atestat1.codulrutier.resources
+C:\Users\trifa\OneDrive\Desktop\Atestat-superbitate\atestat1\atestat1\obj\x86\Debug\atestat1.examen.resources
+C:\Users\trifa\OneDrive\Desktop\Atestat-superbitate\atestat1\atestat1\obj\x86\Debug\atestat1.Inregistrare.resources
+C:\Users\trifa\OneDrive\Desktop\Atestat-superbitate\atestat1\atestat1\obj\x86\Debug\atestat1.Login.resources
+C:\Users\trifa\OneDrive\Desktop\Atestat-superbitate\atestat1\atestat1\obj\x86\Debug\atestat1.Main.resources
+C:\Users\trifa\OneDrive\Desktop\Atestat-superbitate\atestat1\atestat1\obj\x86\Debug\atestat1.mediudeinvatare.resources
+C:\Users\trifa\OneDrive\Desktop\Atestat-superbitate\atestat1\atestat1\obj\x86\Debug\atestat1.Properties.Resources.resources
+C:\Users\trifa\OneDrive\Desktop\Atestat-superbitate\atestat1\atestat1\obj\x86\Debug\atestat1.csproj.GenerateResource.Cache
